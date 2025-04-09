@@ -13,7 +13,7 @@ hero_col1, hero_col2, hero_col3 = st.columns([3, 2, 2])
 
 with hero_col1:
     st.markdown("### Why take courses online through Coursera?")
-    st.markdown("Coursera offers flexible, affordable access to top-rated university and industry content—anytime, anywhere.")
+    st.markdown("Coursera makes high-quality education accessible from anywhere in the world. Whether you're looking to explore a new interest, advance your career, or earn a professional certificate, Coursera offers flexible, affordable learning opportunities from top universities and industry leaders—on your schedule, at your pace.")
 
 with hero_col2:
     st.markdown("#### If you're new to Coursera")
